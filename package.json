@@ -1,0 +1,11 @@
+{
+  "name": "scarface-dialect-csharp",
+  "version": "1.0.0",
+  "description": "Dialect plugin to Scarface Library",
+  "main": "CSharpDialect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Bertoni de Paula",
+  "license": "MIT"
+}
